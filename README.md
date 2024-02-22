@@ -3,11 +3,12 @@ Welcome to "Python & Cloud Synergy: Advanced Techniques with Google Gemini‚Äù ‚Ä
 
 ### Overview
 This repository features a Cloud Run application utilizing the Streamlit Framework, showcasing the integration with the Vertex AI Gemini API.
-<img src="https://storage.googleapis.com/github-repo/img/gemini/sample-apps/gemini-streamlit-cloudrun/assets/gemini_pro_text.png" width="50%"/> 
+![Screenshot from 2024-02-23 03-42-40](https://github.com/GDGCloudLahore/Buildwithai-Python-Cloud-Synergy-Transformation-Techniques-with-Google-Gemini-pro-Workshop/assets/71556060/a8925d0d-b16e-433c-b64e-475e924ab2fa)
 
+DEMO Link: https://gemini-streamlit-app-ido3ocn3pq-uc.a.run.app/
 
 ### Local Deployment (Cloud Shell)
-Note: Before proceeding, make sure to follow the instructions in SETUP.md and clone this repository. Navigate to the gemini-streamlit-cloudrun folder as your active working directory.
+Note: Before proceeding, make sure to Navigate to the folder as your active working directory.
 
 Set up the Python virtual environment and install dependencies:
 
@@ -33,10 +34,10 @@ streamlit run app.py \
   --server.port 8080
 ```
 Access the application URL provided in Cloud Shell's web preview or open it in your browser.
-
 Build and Deploy to Cloud Run
 
 ### Set up environment variables for Cloud Run:
+
 GCP_PROJECT: Your Google Cloud project ID.
 GCP_REGION: The region where you deploy your Cloud Run app (e.g., us-central1).
 ```bash
