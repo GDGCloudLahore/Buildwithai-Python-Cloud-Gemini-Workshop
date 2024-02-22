@@ -3,10 +3,11 @@ Welcome to "Python & Cloud Synergy: Advanced Techniques with Google Gemini‚Äù ‚Ä
 
 ### Overview
 This repository features a Cloud Run application utilizing the Streamlit Framework, showcasing the integration with the Vertex AI Gemini API.
+<img src="https://storage.googleapis.com/github-repo/img/gemini/sample-apps/gemini-streamlit-cloudrun/assets/gemini_pro_text.png" width="50%"/> 
 
 Author
 Lavi Nigam
-<img src="https://storage.googleapis.com/github-repo/img/gemini/sample-apps/gemini-streamlit-cloudrun/assets/gemini_pro_text.png" width="50%"/>
+
 
 ### Local Deployment (Cloud Shell)
 Note: Before proceeding, make sure to follow the instructions in SETUP.md and clone this repository. Navigate to the gemini-streamlit-cloudrun folder as your active working directory.
