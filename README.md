@@ -6,8 +6,7 @@ This repository features a Cloud Run application utilizing the Streamlit Framewo
 
 Author
 Lavi Nigam
-Application Preview
-Application Preview
+<img src="https://storage.googleapis.com/github-repo/img/gemini/sample-apps/gemini-streamlit-cloudrun/assets/gemini_pro_text.png" width="50%"/>
 
 ### Local Deployment (Cloud Shell)
 Note: Before proceeding, make sure to follow the instructions in SETUP.md and clone this repository. Navigate to the gemini-streamlit-cloudrun folder as your active working directory.
